@@ -2,16 +2,27 @@
 
 ## SKILS
 
-* elixir | otp | phoenix (4 years)
+* elixir | otp | phoenix (5.5 years)
 * ruby | ruby_on_rails (5 years)
-* sql | postgres
+* sql | postgres | psql | postgis
 * nix | ubuntu | debian | mac_os
 * docker | docker-compose
 * js | es6 | jquery | react_js | vue_js
+* tailwind css
+* kubernetis
+* heroku | aws | gcloud
 
 ## PROFESSIONAL EXPERIENCE
 
-### Elixir developer, [proSapient](https://prosapient.com/), December 2020 - present
+## Elixir developer, [NewStandardsInc](http://newstandards-us.com/), December 2021 - present
+
+* Working like contractor in [HHAeXchange](https://www.hhaexchange.com/about)
+  - development REST API
+  - development GraphQL API
+  - development UI with Phoenix LiveView
+  - development kubernetis wrap app for deployment microsevices 
+
+### Elixir developer, [proSapient](https://prosapient.com/), December 2020 - November 2021
 
 * Expert Network platform (SaaS/b2b)
   - development REST API for external apps
