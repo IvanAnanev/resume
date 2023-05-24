@@ -2,25 +2,32 @@
 
 ## SKILS
 
-* elixir | otp | phoenix (5.5 years)
-* ruby | ruby_on_rails (5 years)
-* sql | postgres | psql | postgis
+* elixir | otp | phoenix (6 years)
+* ruby | ruby_on_rails (7 years)
+* sql | postgres | psql | postgis | elasticsearch
 * nix | ubuntu | debian | mac_os
 * docker | docker-compose
-* js | es6 | jquery | react_js | vue_js
+* js | ts | es6 | jquery | react_js | vue_js
 * tailwind css
-* kubernetis
-* heroku | aws | gcloud
+* kubernetes
+* heroku | aws | gcloud | gitlab-ci
 
 ## PROFESSIONAL EXPERIENCE
 
-## Elixir developer, [NewStandardsInc](http://newstandards-us.com/), December 2021 - present
+### Fullstack developer, [Briliant](https://www.brilliantconsulting.dev/), January 2023 - present
+
+* e commerce microservice platform (ruby/rails, ts/react)
+  - development backend REST API
+  - development feature logic
+  - development frontend with ts and react
+
+### Elixir developer, [NewStandardsInc](http://newstandards-us.com/), December 2021 - December 2022
 
 * Working like contractor in [HHAeXchange](https://www.hhaexchange.com/about)
   - development REST API
   - development GraphQL API
   - development UI with Phoenix LiveView
-  - development kubernetis wrap app for deployment microsevices 
+  - development kubernetis wrap app for deployment microsevices
 
 ### Elixir developer, [proSapient](https://prosapient.com/), December 2020 - November 2021
 
@@ -41,7 +48,7 @@
   - development of business logic and architecture
   - development private GraphQL Api with `absinthe` for frontend App
   - development public Json Api for integrations with other applications
-  - development of a`management system` for working with apple certificates
+  - development of a `management system` for working with apple certificates
   - development Api for passes(pkpass) updates and pushes
   - deploy and manage app on heroku
 
