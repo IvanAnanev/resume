@@ -1,10 +1,10 @@
-# Ivan Ananev | elixir developer
+# Ivan Ananev | software developer (elixir | ruby)
 
 ## SKILS
 
 * elixir | otp | phoenix (6 years)
 * ruby | ruby_on_rails (7 years)
-* sql | postgres | psql | postgis | elasticsearch
+* sql | postgres | mysql | psql | postgis | elasticsearch
 * nix | ubuntu | debian | mac_os
 * docker | docker-compose
 * js | ts | es6 | jquery | react_js | vue_js
